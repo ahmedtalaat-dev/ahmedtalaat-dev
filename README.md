@@ -1,6 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Ahmed Talaat</b>, Front-End Developer from Egypt. </p>
+<p>Welcome to my page! </br> I'm <b>Ahmed Talaat</b>, a passionate <b>Front-End Developer</b> from Egypt.</p>
+
+<h3>About me</h3>
+<p>
+- 🌱 I’m currently learning <b>React</b> and sharpening my front-end skills.<br>
+- 🚀 My goal is to build creative, responsive, and user-friendly web apps.<br>
+- 🎯 I’m working on personal projects that will be shared here soon.<br>
+</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -14,13 +21,10 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </p>
 
-<h3>Open source projects</h3>
-<p>Here are some of my personal/front-end projects (more coming soon):</p>
-<ul>
-  <li><a href="#"><b>Project 1</b></a> – Short description</li>
-  <li><a href="#"><b>Project 2</b></a> – Short description</li>
-  <li><a href="#"><b>Project 3</b></a> – Short description</li>
-</ul>
+<h3>Portfolio</h3>
+<p>
+🚧 My projects are currently in progress — stay tuned, exciting things are on the way!  
+</p>
 
 <h3>Where to find me</h3>
 <p>
