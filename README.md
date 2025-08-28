@@ -23,7 +23,11 @@
 
 <h3>Portfolio</h3>
 <p>
-🚧 My projects are currently in progress — stay tuned, exciting things are on the way!  
+🔹 <b>Prayer Times Website (Egypt)</b> ⏱️🕌  
+Provides accurate daily prayer times for all cities across Egypt with a clean and modern UI.  
+
+🌐 Live Website: <a href="https://prayer-times-egypt.netlify.app/" target="_blank">prayer-times-egypt.netlify.app</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/prayer-times" target="_blank">github.com/ahmedtalaat-dev/prayer-times</a>
 </p>
 
 <h3>Where to find me</h3>
