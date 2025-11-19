@@ -29,22 +29,22 @@
 <p>
 🔹 <b>Bazarna 🛒</b> – Front-End for an E-commerce Website<br>
 A modern, responsive UI for an online store, including home page, product pages, and shopping cart.<br>
-🌐 Live Website: <a href="https://bazarna-store.netlify.app/" target="_blank">bazarna.com</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/bazarna" target="_blank">github.com/ahmed-alqanas/bazarna</a>
+🌐 Live Website: <a href="https://bazarna-store.netlify.app/" target="_blank">bazarna</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/bazarna" target="_blank">bazarna</a>
 </p>
 
 <p>
 🔹 <b>EDU Spark 📚</b> – Front-End for an Educational Website<br>
 A clean and responsive UI for an educational platform, including courses and content pages.<br>
-🌐 Live Website: <a href="https://eduspark-platform.netlify.app/" target="_blank">eduspark.com</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/edu-spark" target="_blank">github.com/ahmed-alqanas/eduspark</a>
+🌐 Live Website: <a href="https://eduspark-platform.netlify.app/" target="_blank">eduspark</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/edu-spark" target="_blank">eduspark</a>
 </p>
 
 <p>
 🔹 <b>La Table Restaurant 🍽️</b> – Front-End for a Restaurant Website<br>
 An attractive UI to showcase menu items and booking forms, fully responsive for desktop and mobile.<br>
-🌐 Live Website: <a href="https://la-table-restaurant.netlify.app/" target="_blank">latable.com</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/la-table-restaurant" target="_blank">github.com/ahmed-alqanas/latable</a>
+🌐 Live Website: <a href="https://la-table-restaurant.netlify.app/" target="_blank">latable</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/la-table-restaurant" target="_blank">latable</a>
 </p>
 
 <h3>Where to find me</h3>
