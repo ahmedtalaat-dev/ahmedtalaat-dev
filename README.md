@@ -1,6 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>👋 Hey, I'm Ahmed Talaat</h1>
 
-<p>Welcome to my page! <br> I'm <b>Ahmed Talaat</b>, a passionate <b>Front-End Developer</b> from Egypt.</p>
+<p>🚀 Front-End Developer | React & Next.js Specialist</p>
+<p>🌍 Based in Egypt</p>
 
 <h3>About me</h3>
 <p>
