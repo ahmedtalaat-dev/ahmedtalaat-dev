@@ -35,7 +35,7 @@
 </p>
 
 <p>
-🔹 <b>EDU Spark 📚</b> – Front-End for an Educational Website<br>
+🔹 <b>EDU Spark 📚</b> – Front-End Educational Website<br>
  A clean and responsive UI for an educational platform, including courses and content pages.<br>
 🌐 Live Website: <a href="https://eduspark-platform.netlify.app/" target="_blank">eduspark</a><br>
 💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/edu-spark" target="_blank">eduspark</a>
