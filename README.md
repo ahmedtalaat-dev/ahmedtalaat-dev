@@ -42,7 +42,7 @@
 </p>
 
 <p>
-🔹 <b>La Table Restaurant 🍽️</b> – Front-End for a Restaurant Website<br>
+🔹 <b>La Table Restaurant 🍽️</b> – Front-End Restaurant Website<br>
  An attractive UI to showcase menu items and booking forms, fully responsive for desktop and mobile.<br>
 🌐 Live Website: <a href="https://la-table-restaurant.netlify.app/" target="_blank">latable</a><br>
 💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/la-table-restaurant" target="_blank">latable</a>
