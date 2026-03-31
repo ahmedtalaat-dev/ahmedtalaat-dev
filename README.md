@@ -28,7 +28,7 @@
 <h3>Portfolio</h3>
 
 <p>
-🔹 <b>Bazarna 🛒</b> – Front-End for an E-commerce Website<br>
+🔹 <b>Bazarna 🛒</b> – Front-End E-commerce Website<br>
  A modern, responsive UI for an online store, including home page, product pages, and shopping cart.<br>
 🌐 Live Website: <a href="https://bazarna-store.netlify.app/" target="_blank">bazarna</a><br>
 💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/bazarna" target="_blank">bazarna</a>
