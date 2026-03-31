@@ -55,4 +55,4 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <b>Ahmed Talaat</b> | Front-End Developer</p>
+<p align="center"><b>Ahmed Talaat</b> | Front-End Developer</p>
