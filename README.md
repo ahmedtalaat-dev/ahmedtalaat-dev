@@ -3,12 +3,16 @@
 <p>🚀 Front-End Developer | React & Next.js Specialist</p>
 <p>🌍 Based in Egypt</p>
 
+---
+
 <h3>About me</h3>
 <p>
 - 🌱 I’m currently working with <b>React, Next.js, TypeScript, Tailwind CSS</b> and improving my front-end skills.<br>
 - 🚀 My goal is to build creative, responsive, and user-friendly web apps.<br>
 - 🎯 I work on personal and client projects which are shared below.<br>
 </p>
+
+---
 
 <h3>Skills</h3>
 <p>
@@ -25,28 +29,32 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </p>
 
+---
+
 <h3>Portfolio</h3>
 
 <p>
-🔹 <b>Bazarna Store 🛒</b> – Front-End E-commerce Website<br>
+🔹 <b>Bazarna Store 🛒</b> – E-commerce Website<br>
  A modern, responsive UI for an online store, including home page, product pages, and shopping cart.<br>
-🌐 Live Website: <a href="https://bazarna-store-one.vercel.app/" target="_blank">bazarna</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/bazarna-store" target="_blank">bazarna</a>
+🌐 Live Website: <a href="https://bazarna-store-one.vercel.app/" target="_blank">Bazarna Store</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/bazarna-store" target="_blank">Bazarna Store</a>
 </p>
 
 <p>
-🔹 <b>EDU Spark 📚</b> – Front-End Educational Website<br>
- A clean and responsive UI for an educational platform, including courses and content pages.<br>
-🌐 Live Website: <a href="https://eduspark-platform.netlify.app/" target="_blank">eduspark</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/edu-spark" target="_blank">eduspark</a>
+🔹 <b>Al Manasah Al Islamiya 🕋</b> – Islamic Platform<br>
+ Your spiritual companion in the journey of faith, designed to provide easy access to essential Islamic content including Qur’an, Hadith,  Azkar, Tafsir, and daily reminders.<br>
+🌐 Live Website: <a href="https://al-manasah.vercel.app/" target="_blank">Islamic Platform</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/islamic-platform" target="_blank">Islamic Platform</a>
 </p>
 
 <p>
-🔹 <b>La Table Restaurant 🍽️</b> – Front-End Restaurant Website<br>
+🔹 <b>Ahmed Portfolio 🚀</b> – Personal Portfolio Website<br>
  An attractive UI to showcase menu items and booking forms, fully responsive for desktop and mobile.<br>
-🌐 Live Website: <a href="https://la-table-restaurant.netlify.app/" target="_blank">latable</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/la-table-restaurant" target="_blank">latable</a>
+🌐 Live Website: <a href="https://at-portfolio-35.vercel.app/" target="_blank">Portfolio</a><br>
+💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/ahmedtalaat-dev" target="_blank">Portfolio</a>
 </p>
+
+---
 
 <h3>Where to find me</h3>
 <p>
