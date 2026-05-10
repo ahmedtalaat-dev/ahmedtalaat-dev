@@ -33,26 +33,87 @@
 
 <h3>Portfolio</h3>
 
-<p>
-🔹 <b>Bazarna Store 🛒</b> – E-commerce Website<br>
- A modern, responsive UI for an online store, including home page, product pages, and shopping cart.<br>
-🌐 Live Website: <a href="https://bazarna-store-one.vercel.app/" target="_blank">Bazarna Store</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/bazarna-store" target="_blank">Bazarna Store</a>
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" style="padding:20px;">
+
+<h3 align="center">Bazarna Store 🛒</h3>
+
+<a href="https://bazarna-store-one.vercel.app/" target="_blank">
+  <img src="./projects/image2.png" alt="Bazarna Store Preview" width="100%" />
+</a>
+
+<p align="center">
+A modern and responsive e-commerce website with product pages, shopping cart functionality, and clean UI design built using React and Next.js.
 </p>
 
-<p>
-🔹 <b>Al Manasah Al Islamiya 🕋</b> – Islamic Platform<br>
- Your spiritual companion in the journey of faith, designed to provide easy access to essential Islamic content including Qur’an, Hadith,  Azkar, Tafsir, and daily reminders.<br>
-🌐 Live Website: <a href="https://al-manasah.vercel.app/" target="_blank">Islamic Platform</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/islamic-platform" target="_blank">Islamic Platform</a>
+<p align="center">
+  <a href="https://bazarna-store-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ahmedtalaat-dev/bazarna-store" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p>
-🔹 <b>Ahmed Portfolio 🚀</b> – Personal Portfolio Website<br>
- An attractive UI to showcase menu items and booking forms, fully responsive for desktop and mobile.<br>
-🌐 Live Website: <a href="https://at-portfolio-35.vercel.app/" target="_blank">Portfolio</a><br>
-💻 GitHub Repo: <a href="https://github.com/ahmedtalaat-dev/ahmedtalaat-dev" target="_blank">Portfolio</a>
+</td>
+
+<td width="50%" valign="top" style="padding:20px;">
+
+<h3 align="center">Al Manasah Al Islamiya 🕋</h3>
+
+<a href="https://al-manasah.vercel.app/" target="_blank">
+  <img src="./projects/image1.png" alt="Islamic Platform Preview" width="100%" />
+</a>
+
+<p align="center">
+An Islamic platform that provides access to Qur’an, Hadith, Tafsir, Azkar, and daily reminders with a modern and user-friendly experience.
 </p>
+
+<p align="center">
+  <a href="https://al-manasah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ahmedtalaat-dev/islamic-platform" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="padding:20px;">
+
+<h3 align="center">Ahmed Portfolio 🚀</h3>
+
+<a href="https://at-portfolio-35.vercel.app/" target="_blank">
+  <img src="./projects/image3.png" alt="Portfolio Preview" width="100%" />
+</a>
+
+<p align="center">
+A personal portfolio website showcasing projects, skills, and services with a clean modern design and responsive layout.
+</p>
+
+<p align="center">
+  <a href="https://at-portfolio-35.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ahmedtalaat-dev/ahmedtalaat-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
