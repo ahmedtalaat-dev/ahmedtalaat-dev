@@ -1,7 +1,10 @@
-<h1>👋 Hey, I'm Ahmed Talaat</h1>
+# 👋 Hey, I'm Ahmed Talaat
+### 🚀 Front-End Developer | React & Next.js Specialist
 
-<p>🚀 Front-End Developer | React & Next.js Specialist</p>
-<p>🌍 Based in Egypt</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Egypt-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square" />
+</p>
 
 ---
 
