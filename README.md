@@ -4,6 +4,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Egypt-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square" />
+  <a href="https://at-portfolio-35.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlemaps&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedtalaat-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=googlemaps&logoColor=white" />
+  </a>
 </p>
 
 ---
