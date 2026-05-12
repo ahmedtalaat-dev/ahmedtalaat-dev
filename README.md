@@ -93,7 +93,7 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" style="padding:20px;">
+<td width="33%" valign="top" style="padding:20px;">
 
 <h3 align="center">Bazarna Store 🛒</h3>
 
@@ -117,7 +117,7 @@ A modern and responsive e-commerce website with product pages, shopping cart fun
 
 </td>
 
-<td width="50%" valign="top" style="padding:20px;">
+<td width="33%" valign="top" style="padding:20px;">
 
 <h3 align="center">Al Manasah Al Islamiya 🕋</h3>
 
@@ -140,10 +140,6 @@ An Islamic platform that provides access to Qur’an, Hadith, Tafsir, Azkar, and
 </p>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top" style="padding:20px;">
 
