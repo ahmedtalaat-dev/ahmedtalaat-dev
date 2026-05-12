@@ -48,25 +48,6 @@
 
 <td valign="top" style="padding:20px;">
 
-<h3>💼 Front-End Intern @ CodVeda Technologies</h3>
-
-<p>
-📅 <b>Mar 2026 - Apr 2026</b>
-</p>
-
-<p>
-- Worked as a Front-End Intern at CodVeda Technologies.<br>
-- Built and improved responsive UI components using HTML, CSS, JavaScript, and React.<br>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" style="padding:20px;">
-
 <h3>🎓 Front-End Instructor @ Masar Academy</h3>
 
 <p>
@@ -78,6 +59,25 @@
 - Explained core concepts like variables, functions, arrays, objects, loops, and DOM manipulation.<br>
 - Helped students understand problem-solving using JavaScript through practical examples.<br>
 - Prepared learning materials and guided students through exercises and projects.<br>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" style="padding:20px;">
+
+<h3>💼 Front-End Intern @ CodVeda Technologies</h3>
+
+<p>
+📅 <b>Mar 2026 - Apr 2026</b>
+</p>
+
+<p>
+- Worked as a Front-End Intern at CodVeda Technologies.<br>
+- Built and improved responsive UI components using HTML, CSS, JavaScript, and React.<br>
 </p>
 
 </td>
