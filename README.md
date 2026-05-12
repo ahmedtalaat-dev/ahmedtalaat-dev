@@ -18,7 +18,7 @@
 <p>
 - 🌱 I’m currently working with <b>React, Next.js, TypeScript, Tailwind CSS</b> and improving my front-end skills.<br>
 - 🚀 My goal is to build creative, responsive, and user-friendly web apps.<br>
-- 🎯 I work on personal and client projects which are shared below.<br>
+- 🎯 I work on personal and client projects.<br>
 </p>
 
 ---
