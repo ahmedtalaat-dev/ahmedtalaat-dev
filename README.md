@@ -14,12 +14,19 @@
 
 ---
 
-<h3>About me</h3>
-<p>
-- 🌱 I’m currently working with <b>React, Next.js, TypeScript, Tailwind CSS</b> and improving my front-end skills.<br>
-- 🚀 My goal is to build creative, responsive, and user-friendly web apps.<br>
-- 🎯 I work on personal and client projects.<br>
-</p>
+<h3>About Me</h3>
+
+<ul>
+  <li>🚀 Passionate <b>Front-End Developer</b> focused on building modern, responsive, and user-friendly web applications.</li>
+  
+  <li>💻 Currently working with <b>React, Next.js, TypeScript, Tailwind CSS, and JavaScript</b> while continuously improving my development skills.</li>
+  
+  <li>🎯 Experienced in creating both <b>personal and client projects</b> with clean code and scalable UI design.</li>
+  
+  <li>📚 Always learning new technologies and best practices to grow as a professional developer.</li>
+  
+  <li>🌟 Interested in crafting smooth user experiences and high-performance web applications.</li>
+</ul>
 
 ---
 
