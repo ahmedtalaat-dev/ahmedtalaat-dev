@@ -148,7 +148,7 @@ An Islamic platform that provides access to Qur’an, Hadith, Tafsir, Azkar, and
 
 </td>
 
-<td width="50%" valign="top" style="padding:20px;">
+<td width="33%" valign="top" style="padding:20px;">
 
 <h3 align="center">Ahmed Portfolio 🚀</h3>
 
