@@ -1,14 +1,23 @@
 # 👋 Hey, I'm Ahmed Talaat
-### 🚀 Front-End Developer | React & Next.js Specialist
+
+### 🚀 Front-End Developer | React & Next.js Developer | UI Enthusiast
+
+<p>
+Passionate about building modern, responsive, and user-friendly web applications using the latest front-end technologies.  
+I enjoy transforming ideas into interactive digital experiences with clean code and creative UI design.
+</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Egypt-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Egypt-DC143C?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Freelance-Available-00C853?style=for-the-badge&logo=freelancer&logoColor=white" />
+  
   <a href="https://at-portfolio-35.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/ahmedtalaat-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
