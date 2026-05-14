@@ -68,6 +68,8 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <img alt="Problem Solving" src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   
