@@ -25,17 +25,11 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ## About Me
 
-<ul>
-  <li>🚀 Passionate <b>Front-End Developer</b> focused on building modern, responsive, and user-friendly web applications.</li>
-  
-  <li>💻 Currently working with <b>React, Next.js, TypeScript, Tailwind CSS, and JavaScript</b> while continuously improving my development skills.</li>
-  
-  <li>🎯 Experienced in creating both <b>personal and client projects</b> with clean code and scalable UI design.</li>
-  
-  <li>📚 Always learning new technologies and best practices to grow as a professional developer.</li>
-  
-  <li>🌟 Interested in crafting smooth user experiences and high-performance web applications.</li>
-</ul>
+  - 🚀 Passionate <b>Front-End Developer</b> focused on building modern, responsive, and user-friendly web applications.
+  - 💻 Currently working with <b>React, Next.js, TypeScript, Tailwind CSS, and JavaScript</b> while continuously improving my development skills.
+  - 🎯 Experienced in creating both <b>personal and client projects</b> with clean code and scalable UI design.
+  - 📚 Always learning new technologies and best practices to grow as a professional developer.
+  - 🌟 Interested in crafting smooth user experiences and high-performance web applications.
 
 ---
 
