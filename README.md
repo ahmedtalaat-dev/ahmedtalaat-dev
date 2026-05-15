@@ -36,37 +36,21 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 ## Skills
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
   <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
-  
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />  
   <img alt="Critical Thinking" src="https://img.shields.io/badge/Critical_Thinking-4B0082?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>
 
@@ -86,12 +70,12 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 📅 <b>Apr 2026 - May 2026</b>
 </p>
 
-<ul>
-<li> Taught Front-End fundamentals course focusing on JavaScript basics.</li>
-<li> Explained core concepts like variables, functions, arrays, objects, loops, and DOM manipulation.</li>
-<li> Helped students understand problem-solving using JavaScript through practical examples.</li>
-<li> Prepared learning materials and guided students through exercises and projects.</li>
-</ul>
+
+- Taught Front-End fundamentals course focusing on JavaScript basics.
+- Explained core concepts like variables, functions, arrays, objects, loops, and DOM manipulation.
+- Helped students understand problem-solving using JavaScript through practical examples.
+- Prepared learning materials and guided students through exercises and projects.
+
 
 </td>
 
@@ -107,12 +91,11 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 📅 <b>Mar 2026 - Apr 2026</b>
 </p>
 
-<ul>
-<li> Worked as a Front-End Intern at CodVeda Technologies.</li>
-<li> Built and improved responsive UI components using HTML, CSS, JavaScript, and React.</li>
-<li> Improved website responsiveness and cross-browser compatibility for better user experience.</li>
-<li> Enhanced debugging and problem-solving skills while fixing UI and functionality issues.</li>
-</ul>
+- Worked as a Front-End Intern at CodVeda Technologies.</li>
+- Built and improved responsive UI components using HTML, CSS, JavaScript, and React.</li>
+- Improved website responsiveness and cross-browser compatibility for better user experience.</li>
+- Enhanced debugging and problem-solving skills while fixing UI and functionality issues.</li>
+
 
 </td>
 
