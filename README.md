@@ -23,7 +23,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-<h3>About Me</h3>
+## About Me
 
 <ul>
   <li>🚀 Passionate <b>Front-End Developer</b> focused on building modern, responsive, and user-friendly web applications.</li>
@@ -39,7 +39,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-<h3>Skills</h3>
+## Skills
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
@@ -78,7 +78,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-<h3>Experience</h3>
+## Experience
 
 <table width="100%">
 
@@ -128,7 +128,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-<h3>Portfolio</h3>
+## Portfolio
 
 <table width="100%">
 <tr>
@@ -210,7 +210,7 @@ A personal portfolio website showcasing projects, skills, and services with a cl
 
 ---
 
-<h3>Where to find me</h3>
+## Where to find me
 <p>
   <a href="https://github.com/ahmedtalaat-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ahmedtalaat-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
