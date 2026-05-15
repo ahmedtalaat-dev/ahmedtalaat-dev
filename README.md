@@ -116,6 +116,8 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 <ul>
 <li> Worked as a Front-End Intern at CodVeda Technologies.</li>
 <li> Built and improved responsive UI components using HTML, CSS, JavaScript, and React.</li>
+<li> Improved website responsiveness and cross-browser compatibility for better user experience.</li>
+<li> Enhanced debugging and problem-solving skills while fixing UI and functionality issues.</li>
 </ul>
 
 </td>
