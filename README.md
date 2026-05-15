@@ -113,10 +113,10 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 📅 <b>Mar 2026 - Apr 2026</b>
 </p>
 
-<p>
-- Worked as a Front-End Intern at CodVeda Technologies.<br>
-- Built and improved responsive UI components using HTML, CSS, JavaScript, and React.<br>
-</p>
+<ul>
+<li> Worked as a Front-End Intern at CodVeda Technologies.</li>
+<li> Built and improved responsive UI components using HTML, CSS, JavaScript, and React.</li>
+</ul>
 
 </td>
 
