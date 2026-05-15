@@ -92,12 +92,12 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 📅 <b>Apr 2026 - May 2026</b>
 </p>
 
-<p>
-- Taught Front-End fundamentals course focusing on JavaScript basics.<br>
-- Explained core concepts like variables, functions, arrays, objects, loops, and DOM manipulation.<br>
-- Helped students understand problem-solving using JavaScript through practical examples.<br>
-- Prepared learning materials and guided students through exercises and projects.<br>
-</p>
+<ul>
+<li> Taught Front-End fundamentals course focusing on JavaScript basics.</li>
+<li> Explained core concepts like variables, functions, arrays, objects, loops, and DOM manipulation.</li>
+<li> Helped students understand problem-solving using JavaScript through practical examples.</li>
+<li> Prepared learning materials and guided students through exercises and projects.</li>
+</ul>
 
 </td>
 
