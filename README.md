@@ -2,10 +2,8 @@
 
 ### 🚀 Front-End Developer | React & Next.js Developer | UI Enthusiast
 
-<p>
 Passionate about building modern, responsive, and user-friendly web applications using the latest front-end technologies.  
 I enjoy transforming ideas into interactive digital experiences with clean code and creative UI design.
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Egypt-DC143C?style=for-the-badge&logo=googlemaps&logoColor=white" />
