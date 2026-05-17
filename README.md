@@ -58,6 +58,14 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtalaat-dev&theme=tokyonight" />
+</p>
+
+---
+
 # Experience
 
 ## 🎓 Front-End Instructor @ Masar Academy
