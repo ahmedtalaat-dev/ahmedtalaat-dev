@@ -56,50 +56,23 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ## Experience
 
-<table width="100%">
-
-<tr>
-
-<td valign="top" style="padding:20px;">
-
-<h3>🎓 Front-End Instructor @ Masar Academy</h3>
-
-<p>
-📅 <b>Apr 2026 - May 2026</b>
-</p>
-
+## 🎓 Front-End Instructor @ Masar Academy
+📅 **Apr 2026 - May 2026**
 
 - Taught Front-End fundamentals course focusing on JavaScript basics.
 - Explained core concepts like variables, functions, arrays, objects, loops, and DOM manipulation.
 - Helped students understand problem-solving using JavaScript through practical examples.
 - Prepared learning materials and guided students through exercises and projects.
 
+---
 
-</td>
+## 💼 Front-End Intern @ CodVeda Technologies
+📅 **Mar 2026 - Apr 2026**
 
-</tr>
-
-<tr>
-
-<td valign="top" style="padding:20px;">
-
-<h3>💼 Front-End Intern @ CodVeda Technologies</h3>
-
-<p>
-📅 <b>Mar 2026 - Apr 2026</b>
-</p>
-
-- Worked as a Front-End Intern at CodVeda Technologies.</li>
-- Built and improved responsive UI components using HTML, CSS, JavaScript, and React.</li>
-- Improved website responsiveness and cross-browser compatibility for better user experience.</li>
-- Enhanced debugging and problem-solving skills while fixing UI and functionality issues.</li>
-
-
-</td>
-
-</tr>
-
-</table>
+- Worked as a Front-End Intern at CodVeda Technologies.
+- Built and improved responsive UI components using HTML, CSS, JavaScript, and React.
+- Improved website responsiveness and cross-browser compatibility for better user experience.
+- Enhanced debugging and problem-solving skills while fixing UI and functionality issues.
 
 ---
 
