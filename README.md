@@ -25,7 +25,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-## About Me
+# About Me
 
   - 🚀 Passionate <b>Front-End Developer</b> focused on building modern, responsive, and user-friendly web applications.
   - 💻 Currently working with <b>React, Next.js, TypeScript, Tailwind CSS, and JavaScript</b> while continuously improving my development skills.
@@ -35,7 +35,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-## Skills
+# Skills
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,7 +58,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-## Experience
+# Experience
 
 ## 🎓 Front-End Instructor @ Masar Academy
 📅 **Apr 2026 - May 2026**
@@ -80,7 +80,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 
 ---
 
-## Portfolio
+# Portfolio
 
 <table width="100%">
 <tr>
@@ -162,15 +162,16 @@ A personal portfolio website showcasing projects, skills, and services with a cl
 
 ---
 
-## Where to find me
+# 🌐 Connect With Me
+
 <p>
   <a href="https://github.com/ahmedtalaat-dev" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
+  </a>
 
   <a href="https://www.linkedin.com/in/ahmedtalaat-dev/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+  </a>
 
   <a href="https://at-portfolio-35.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -181,5 +182,12 @@ A personal portfolio website showcasing projects, skills, and services with a cl
   </a>
 </p>
 
-------------
-<p align="center"><b>Ahmed Talaat</b> | Front-End Developer</p>
+---
+
+<p align="center">
+  <b>💬 Open to freelance work, internships, and collaboration opportunities.</b>
+</p>
+
+<p align="center">
+  <b>Ahmed Talaat</b> | Front-End Developer
+</p>
