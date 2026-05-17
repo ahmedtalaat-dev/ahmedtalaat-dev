@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cover/cover.png" alt="Ahmed Talaat Banner" width="100%" />
+</p>
+
 # 👋 Hey, I'm Ahmed Talaat
 
 ### 🚀 Front-End Developer | React & Next.js Developer | UI Enthusiast
