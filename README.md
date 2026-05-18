@@ -102,7 +102,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 </a>
 
 <p align="center">
-A modern, responsive e-commerce platform built with React and Next.js, featuring dynamic product pages, seamless shopping cart functionality, and a clean, user-friendly UI focused on performance and smooth user experience.
+A modern, responsive e-commerce platform built with React and Next.js, featuring dynamic product pages, seamless shopping cart functionality, and a clean UI focused on performance and smooth user experience.
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@ A modern Islamic platform built to provide access to the Qur’an, Hadith, Tafsi
 </a>
 
 <p align="center">
-A personal portfolio website showcasing projects, skills, and services with a clean modern design and responsive layout.
+A modern personal portfolio website showcasing projects, technical skills, and professional services through a clean, responsive design focused on performance, accessibility, and smooth user experience.
 </p>
 
 <p align="center">
