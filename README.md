@@ -102,7 +102,7 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
 </a>
 
 <p align="center">
-A modern and responsive e-commerce website with product pages, shopping cart functionality, and clean UI design built using React and Next.js.
+A modern, responsive e-commerce platform built with React and Next.js, featuring dynamic product pages, seamless shopping cart functionality, and a clean, user-friendly UI focused on performance and smooth user experience.
 </p>
 
 <p align="center">
