@@ -126,7 +126,7 @@ A modern, responsive e-commerce platform built with React and Next.js, featuring
 </a>
 
 <p align="center">
-An Islamic platform that provides access to Qur’an, Hadith, Tafsir, Azkar, and daily reminders with a modern and user-friendly experience.
+A modern Islamic platform built to provide access to the Qur’an, Hadith, Tafsir, Azkar, and daily reminders, featuring a clean, responsive interface focused on accessibility, performance, and a smooth user experience.
 </p>
 
 <p align="center">
