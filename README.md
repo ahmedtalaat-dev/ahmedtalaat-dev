@@ -178,7 +178,7 @@ A modern personal portfolio website showcasing projects, technical skills, and p
   </a>
 
   <a href="https://www.linkedin.com/in/ahmedtalaat-dev/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://at-portfolio-35.vercel.app/" target="_blank">
@@ -187,6 +187,10 @@ A modern personal portfolio website showcasing projects, technical skills, and p
 
   <a href="https://wa.me/201104894017" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/ahmedtalaat-dev" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
