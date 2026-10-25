@@ -45,14 +45,33 @@ I enjoy transforming ideas into interactive digital experiences with clean code 
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+  <!-- Backend Development -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Authentication" src="https://img.shields.io/badge/Authentication-4285F4?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img alt="Authorization" src="https://img.shields.io/badge/Authorization-6C3483?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img alt="API Integration" src="https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img alt="Bcrypt" src="https://img.shields.io/badge/Password_Hashing-2C3E50?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img alt="Environment Variables" src="https://img.shields.io/badge/Environment_Variables-4CAF50?style=for-the-badge&logo=dotenv&logoColor=white" />
+
+  <!-- Programming and Tools -->
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />  
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- Soft Skills -->
+  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img alt="Critical Thinking" src="https://img.shields.io/badge/Critical_Thinking-4B0082?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>
 
