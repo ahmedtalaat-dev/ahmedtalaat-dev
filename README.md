@@ -4,10 +4,10 @@
 
 # 👋 Hey, I'm Ahmed Talaat
 
-### 🚀 Front-End Developer | React & Next.js Developer | UI Enthusiast
+### 🚀 Full-Stack Developer | React & Next.js | Node.js & Express.js
 
-Passionate about building modern, responsive, and user-friendly web applications using the latest front-end technologies.  
-I enjoy transforming ideas into interactive digital experiences with clean code and creative UI design.
+Passionate about building modern, responsive, and scalable web applications using both front-end and back-end technologies.  
+I enjoy transforming ideas into interactive digital experiences by combining clean UI design, robust backend development, RESTful APIs, and database management to create seamless end-to-end solutions.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Egypt-DC143C?style=for-the-badge&logo=googlemaps&logoColor=white" />
