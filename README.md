@@ -220,5 +220,5 @@ A modern personal portfolio website showcasing projects, technical skills, and p
 </p>
 
 <p align="center">
-  <b>Ahmed Talaat</b> | Front-End Developer
+  <b>Ahmed Talaat</b> | Full-Stack Developer
 </p>
